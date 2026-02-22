@@ -7,3 +7,5 @@ explore world
 + log ou
 ## programming language used
 html
+## problems fixed
+we directly added home page and all other in one program
